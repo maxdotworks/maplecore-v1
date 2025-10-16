@@ -226,7 +226,7 @@ MIT License
 MapleStory community, Cosmicms, Next.js, React contributors
 
 ## 📞 Support
-- Discord: ARtistjr
+- Discord: ARtistjr AKA Lynx
 - GitHub Issues join us at MapleCore discord server
 
 Made with ❤️ for the MapleStory community.

@@ -183,7 +183,7 @@ pm2 startup
 ## Acknowledgments
 MapleStory community, Cosmicms, Next.js, React contributors
 
-## 📞 Support
+## Support
 - Discord: ARtistjr AKA Lynx
 - GitHub Issues join us at MapleCore discord server
 
